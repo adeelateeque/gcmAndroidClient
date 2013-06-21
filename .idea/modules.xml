@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GcmPocApp.iml" filepath="$PROJECT_DIR$/GcmPocApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GcmPocApp/GcmPocApp-GcmPocApp.iml" filepath="$PROJECT_DIR$/GcmPocApp/GcmPocApp-GcmPocApp.iml" />
+    </modules>
+  </component>
+</project>
+
